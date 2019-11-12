@@ -1,0 +1,2 @@
+# URL-Scanny
+URL Scanny is a recognition technology that enables us to recognize any type of URL String, Link text and Massive literal URL from various types of documents such as printed paper, any other printed images booklet manual, newspaper, any specific link from product wrapper, etc. and makes it as linkify URL which is auto searchable result [browsers] or automatic redirect from app[May correspond/specific app].
