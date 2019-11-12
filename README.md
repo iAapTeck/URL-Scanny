@@ -27,7 +27,7 @@ To build and run the app, clone this project, open it as an existing project in 
 
 ## License
 
-This project is licensed under the [MIT License, Version 2.0](https://rem.mit-license.org/%20licensc)
+This project is licensed under the [MIT License, Version 2.0]
 
     /*
      * Copyright 2018 iAapTeck Sotfware Labs
